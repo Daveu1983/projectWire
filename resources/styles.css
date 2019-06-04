@@ -1,0 +1,13 @@
+.bigBox{
+    height:90px;
+    width: 100%;
+}
+.feet{
+    text-align: center;
+    border:brown;
+    border-style: double;
+}
+h1{
+    text-align: center;
+    border-style: dotted;
+}
